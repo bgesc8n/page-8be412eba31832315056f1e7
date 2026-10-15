@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "dbffcf579c5e94975321ad8b",
+  "owner": "bgesc8n",
+  "repo": "page-8be412eba31832315056f1e7",
+  "title": "clash代理",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8be412eba31832315056f1e7",
+      "a": "clash代理",
+      "b": "",
+      "entity": "clash代理",
+      "brand": "clash代理",
+      "separator": "",
+      "path": "index.html",
+      "hash": "88743fb1f732f9dbbbaa4649b546dbfc0ce6460132e12993cfd174e6aef28262",
+      "content": {
+        "keyword1": "clash代理",
+        "keyword2": "",
+        "primary_entity": "clash代理",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clash代理介绍日常与远程办公中的网络加速方式，并说明客户端选择、订阅导入、套餐流量和设备数，方便在官网页面核对后再下载。",
+          "AI_DESCRIPTION": "clash代理介绍日常与远程办公中的网络加速方式，并说明客户端选择、订阅导入、套餐流量和设备数，方便在官网页面核对后再下载。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>:root{--bg:#f6f1e7;--ink:#1c1915;--muted:#3d463f;--green:#1b4332;--green2:#2d6a4f;--card:#fffdf8;--line:#d8d0c2;--soft:#e7f2eb}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:Georgia,\"Songti SC\",\"Noto Serif SC\",serif;font-size:17px;line-height:1.75}a{color:var(--green);text-decoration-thickness:1px}header,main,footer{max-width:980px;margin:0 auto;padding:0 1rem}header{padding-top:1.25rem}nav{display:flex;flex-wrap:wrap;gap:.75rem 1rem;font-family:\"Segoe UI\",\"PingFang SC\",sans-serif;font-size:.95rem}nav a{color:var(--green);text-decoration:none;border-bottom:1px solid var(--line)}.eyebrow{font-family:\"Segoe UI\",\"PingFang SC\",sans-serif;letter-spacing:.08em;color:var(--green2);font-size:.85rem;margin:.8rem 0 0}h1{font-size:2rem;line-height:1.25;margin:.35rem 0 .5rem;color:var(--green)}h2{font-size:1.45rem;line-height:1.35;margin:2rem 0 .6rem;color:var(--green)}h3{font-size:1.12rem;margin:0 0 .4rem;color:var(--green)}p{margin:.5rem 0 1rem}.lead{font-size:1.05rem}.split{display:grid;grid-template-columns:1fr;gap:1rem}.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:1rem 1.05rem}.soft{background:var(--soft)}.clients{display:grid;grid-template-columns:1fr;gap:.8rem}.price-grid{display:grid;grid-template-columns:1fr;gap:.8rem}.plan{position:relative}.featured{border:2px solid var(--green);background:#f3faf5}.badge{display:inline-block;background:var(--green);color:#f6f1e7;font-family:\"Segoe UI\",\"PingFang SC\",sans-serif;font-size:.78rem;padding:.1rem .45rem;border-radius:999px;margin-bottom:.4rem}.price{font-family:\"Segoe UI\",\"PingFang SC\",sans-serif;font-size:1.35rem;color:var(--green);margin:.2rem 0}.annual{color:var(--muted);font-size:.95rem}ul{margin:.4rem 0 .2rem;padding-left:1.15rem}li{margin:.25rem 0}ol{padding-left:1.2rem}details{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:.75rem 1rem;margin:.7rem 0}summary{font-weight:700;color:var(--green);cursor:pointer}footer{padding:1.5rem 1rem 2.5rem;color:var(--muted);font-size:.95rem}@media(min-width:800px){.split{grid-template-columns:1.25fr .75fr}.clients{grid-template-columns:1fr 1fr}.price-grid{grid-template-columns:1fr 1fr 1fr}h1{font-size:2.4rem}}</style><header><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">使用场景</a><a href=\"#clients\">客户端</a><a href=\"#guide\">操作说明</a><a href=\"#plans\">套餐</a><a href=\"#faq\">常见问题</a></nav><p class=\"eyebrow\">官网页面 · 网络加速与客户端核对</p><h1>clash代理</h1></header><main><section id=\"intro\" class=\"split\"><div><p class=\"lead\">clash代理把订阅、节点选择和多设备同时在线放在同一套说明里，用来处理跨境网页、远程办公和流媒体播放时的网络加速。页面重点不是堆砌线路口号，而是先选对客户端，再按流量和设备数决定套餐。</p><p>适合已经熟悉代理客户端、希望用订阅地址统一管理规则的人。基础版覆盖轻度浏览，旗舰版面向流媒体和游戏优化，团队版把设备数提高到二十台，并提供企业定制路由与专属客户经理。</p></div><aside class=\"card soft\"><h2>先看这三件事</h2><ul><li>确认系统对应的客户端，再导入订阅。</li><li>按每月流量和同时在线设备数选套餐。</li><li>流媒体与游戏不要共用同一条选路思路。</li></ul><p><a href=\"#clients\">进入客户端选择</a></p></aside></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"clients\"><article class=\"card\"><h3>日常网页与资料查阅</h3><p>需要稳定打开海外文档、代码托管和公开资料时，优先看延迟和可用率，不必一上来占用旗舰线路。基础版的普通线路节点池更适合这种间歇使用。</p></article><article class=\"card\"><h3>流媒体与家庭娱乐</h3><p>播放平台往往同时检查地区和带宽。旗舰版写明全节点原生流媒体解锁，适合把播放设备和常用电脑算进五台在线设备之内。</p></article><article class=\"card\"><h3>远程协作与团队出口</h3><p>多人共享同一订阅时，设备数和路由策略比单次测速更重要。团队版支持二十台设备、企业定制路由和专属客户经理，便于统一出口而不是各自乱选节点。</p></article></div></section><section id=\"clients\"><h2>客户端选择</h2><p>下载前先按系统核对客户端，而不是只保存一个订阅地址。下列名称用于识别常见、支持订阅导入的客户端类型；具体安装包请在本页核对系统版本后再从对应入口获取，链接仅指向本页说明。</p><div class=\"clients\"><article class=\"card featured\"><h3>Windows</h3><p>优先选择带图形界面、可区分系统代理与规则模式的客户端，例如 Clash Verge 一类。适合同时处理浏览器、会议软件和游戏。导入后先用规则模式，避免把局域网设备也送出站。</p><p><a href=\"#guide\">查看 Windows 导入步骤</a></p></article><article class=\"card\"><h3>macOS</h3><p>桌面端同样建议使用可查看日志的客户端，例如 ClashX Meta 或 Clash Verge。菜单栏图标只表示进程在运行，不表示当前节点可用，连接后应看日志里的握手结果。</p><p><a href=\"#guide\">查看 macOS 核对要点</a></p></article><article class=\"card\"><h3>Android</h3><p>手机端选择支持订阅更新和分应用代理的客户端。公共 Wi-Fi 下先更新订阅再选节点；流量统计以套餐后台为准，客户端数字只作参考。</p><p><a href=\"#plans\">按流量选择套餐</a></p></article><article class=\"card\"><h3>iOS 与其他设备</h3><p>移动系统对后台和本地网络权限更严格。安装后允许本地网络与 VPN 配置，再导入订阅。路由器或软路由若要长期挂载，应计入团队版的设备与路由需求，而不是占用个人套餐的全部名额。</p><p><a href=\"#faq\">查看权限与失败排查</a></p></article></div></section><section id=\"guide\"><h2>操作说明</h2><div class=\"split\"><div class=\"card\"><h3>从订阅到可用</h3><ol><li>按上一节选定客户端，完成安装并允许系统代理或 VPN 配置。</li><li>在账户提供的订阅地址处复制链接，于客户端选择“从 URL 导入”或同等入口。</li><li>更新订阅后先按地区或用途筛选节点，不要同时开启多个出站。</li><li>浏览器访问一个普通网页做连通测试，再按需切换流媒体或游戏线路。</li><li>设备数接近上限时，先在不使用的手机或虚拟机上断开，再登录新设备。</li></ol></div><div class=\"card soft\"><h3>选路时怎么判断</h3><p>网页和邮件看延迟即可。流媒体优先选套餐中标明可解锁的节点，旗舰版对应全节点原生流媒体解锁。游戏若需要更稳定的专线，使用旗舰版中的 IPLC 专线游戏加速优化，不要用测速最高但抖动大的普通节点硬开。</p><p>规则模式适合国内外流量分流；全局模式只在短时间排错时使用，用完切回，以免本地打印机和内网地址异常。</p></div></div></section><section id=\"plans\"><h2>套餐与流量</h2><p>价格按所给方案列出。年付是一次性支付优惠，不是另送流量。流量按月计算，未使用部分是否结转以开通时的账户说明为准，本页不额外承诺。</p><div class=\"price-grid\"><article class=\"card plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a href=\"#clients\">先选客户端</a></p></article><article class=\"card plan featured\"><span class=\"badge\">重点方案</span><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a href=\"#guide\">查看如何选流媒体与游戏线路</a></p></article><article class=\"card plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a href=\"#scenes\">对照团队场景</a></p></article></div></section><section id=\"faq\"><h2>常见问题</h2><details><summary>clash代理适合什么人，不适合什么人？</summary><p>适合需要订阅制网络加速、愿意自己选择客户端和节点的人。若只想打开一个开关、完全不看规则和设备数，基础说明会显得偏多。团队若要统一出口，应直接看团队版，而不是把多个基础版账号混用。</p></details><details><summary>官网下载之前为什么要先选客户端？</summary><p>不同系统的权限、分应用代理和日志位置不一样。先确定 Windows、macOS、Android 或 iOS 的客户端类型，再导入订阅，能避免把手机配置文件装到电脑，或在不支持规则模式的客户端里找不到分流选项。</p></details><details><summary>订阅导入后仍然打不开网页，先查哪里？</summary><p>先确认订阅已更新且当前节点不是超时节点，再看系统是否允许代理或 VPN。规则模式下确认目标网站没有被本地直连。仍失败时切换一个同地区节点；不要同时开两个客户端争用系统代理。</p></details><details><summary>流量和同时在线设备怎么理解？</summary><p>基础版每月 100GB、三台设备，旗舰版 300GB、五台，团队版 1000GB、二十台。同时在线指同一时段处于连接状态的设备，不是历史登录过的设备总数。视频和高清会议比网页更消耗流量。</p></details><details><summary>流媒体解锁和游戏加速是否包含在所有套餐？</summary><p>不是。基础版是解锁基础流媒体并使用普通线路节点池。全节点原生流媒体解锁，以及 IPLC 专线游戏加速优化，写在旗舰版中。团队版强调高带宽、定制路由和客户经理，不自动等同于旗舰版的游戏专线描述。</p></details><details><summary>年付价格是否改变月流量？</summary><p>不改变。基础版按年付 ¥150，旗舰版 ¥350，团队版 ¥850，对应的仍是各自的月流量和设备数。年付只是付款周期不同，开通前应确认账户里的生效日期和续费方式。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>clash代理 · 本页用于说明客户端、订阅导入与套餐差异。下载与开通前请回到 <a href=\"#clients\">客户端</a> 与 <a href=\"#plans\">套餐</a> 核对系统、流量和设备数。</p></footer>",
+          "hash": "1f99df747f3335d8584f88927d9de92f30410f82a3abc534c29c08948bc51236",
+          "seo": {
+            "title": "clash代理官网：客户端下载与网络加速说明",
+            "keywords": "clash代理,网络加速,加速器,客户端下载,官网下载,订阅",
+            "description": "clash代理介绍日常与远程办公中的网络加速方式，并说明客户端选择、订阅导入、套餐流量和设备数，方便在官网页面核对后再下载。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wku416.cn",
+    "host": "p-f64005dc3d.wku416.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "c4c3b7cd70ac77978aac04ceef45b66a0cbdda0f08977daa2ad3e73ac46aace6",
+    "sitemap.xml": "e7689f33f928c8a4e047d2b6f22dae9c7cd950b53a237fdba308bae5bd8396cb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2f7a03f71aa5b92f7ab45c4bc2b12ffe24ab85213c7374353e2c8c3dbbfbb42b",
+    "robots.txt": "70aa75aa9497c357303a6b2d00011b9272112958cba71834f0dafe6214b6c6c8",
+    "405347f34a8c7f50bccf2034914a9712.txt": "2cbf73fb47421d30bf19d7a383e1cddbf8eb6dacc4f230e07288fe294301045f"
+  },
+  "revision": "770bd5e379d52ecc35f85d9a80fd5646f095441ec428341312901f49aac7c497"
+}
